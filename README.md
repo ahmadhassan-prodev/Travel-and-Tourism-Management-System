@@ -1,0 +1,1 @@
+This is my semester project in which i made a desktop application using java swing which gives the functions of booking a travel package, a destination, a hotel and also paying the bill. In this project i use the MySQL as a database to store data for login, package and hotel booking details.
